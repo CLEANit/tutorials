@@ -5,3 +5,6 @@ This is my tutorial:<br>
 -Kyle<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/datasets_tutorial.ipynb)<br>
 -Andrew<br>
+
+## Reinforce Implementation in Pytorch Tutorial by Andriy Drozdyuk
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/reinforce.ipynb)<br>
