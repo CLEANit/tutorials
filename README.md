@@ -13,3 +13,4 @@ This is my tutorial:<br>
 Wish list:
 * Demonstration of importing/exporting for POSCAR and ASE (Christoff)
 * Demonstration for cconverting ASE/POSCAR to nx graph objects (Christoff)
+* Pytorch implementation of Kyle Mills' paper on the Ising model
