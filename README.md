@@ -1,14 +1,17 @@
 # tutorials
 Introductory tutorials and examples of NN<br>
-This is my tutorial:<br>
+RENAME THIS (-Kyle)<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/CA-AE.ipynb)<br>
--Kyle<br>
+<br>
+LOADING COMMON DATASETS(-Alexander)<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/datasets_tutorial.ipynb)<br>
--Alexander<br>
+<br>
+REINFORCE(-Andriy)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/reinforce.ipynb)<br>
--Andriy<br>
+<br>
+Pytorch_ASE_Surfaces (-Christoff)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/Pytorch_ASE_Surfaces.ipynb)<br>
--Christoff<br>
+<br>
 
 Wish list:
 * Demonstration of importing/exporting for POSCAR and ASE (Christoff)
