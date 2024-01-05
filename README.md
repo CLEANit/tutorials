@@ -16,6 +16,7 @@ Pytorch_ASE_Surfaces (-Christoff)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CLEANit/tutorials/blob/master/2D_KMC_Example.ipynb)<br>
 <br>
 This tutorial demonstrates the migration of a (vacancy) defect in 2D space through an arbitrary lattice system, as shown below.
+<br>
 ![](https://github.com/CLEANit/tutorials/blob/main/Supplementary/ani.gif)
 
 
